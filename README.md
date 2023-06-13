@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there I am Jeremiah 👋
+👨‍💻 Junior Flutter Developer | 💻 Web Developer | 🌐 HTML | 🎨 CSS | 🚀 JavaScript | 🎯 Dart
 
-<!--
-**jjboy55/jjboy55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Exploring the endless possibilities of Flutter and the web.
 
-Here are some ideas to get you started:
+⚡️ Passionate about crafting delightful user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Turning ideas into efficient and scalable applications.
+
+📚 Constantly learning and improving my skills.
+
+🌍 Building beautiful interfaces and responsive websites.
+
+💡 Transforming concepts into elegant code.
+
+📫 Reach me on twitter @jerrydevs
+
+👯 I’m looking to collaborate on multiple projects especially related to flutter
+
+🚀 Making the web a better place, one line of code at a time.
+
