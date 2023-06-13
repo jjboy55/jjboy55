@@ -1,5 +1,5 @@
 ### Hi there I am Jeremiah 👋
-👨‍💻 Junior Flutter Developer | 💻 Web Developer | 🌐 HTML | 🎨 CSS | 🚀 JavaScript | 🎯 Dart
+👨‍💻 Junior Flutter Developer | 💻 Junior Web Developer | 🌐 HTML | 🎨 CSS | 🚀 JavaScript | 🎯 Dart
 
 🔭 Exploring the endless possibilities of Flutter and the web.
 
