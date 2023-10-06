@@ -19,6 +19,6 @@
 
 🚀 Making the web a better place, one line of code at a time.
 
+<div align = "center" >[![GitHub Streak](https://streak-stats.demolab.com?user=jjboy55&theme=github-dark-blue)](https://git.io/streak-stats)</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jjboy55&theme=github-dark-blue)](https://git.io/streak-stats)
 
