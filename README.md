@@ -19,4 +19,6 @@
 
 🚀 Making the web a better place, one line of code at a time.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jjboy55&theme=github-dark-blue)](https://git.io/streak-stats)
+<center>
+[![GitHub Streak](https://streak-stats.demolab.com?user=jjboy55&theme=github-dark-blue)](https://git.io/streak-stats)</center>
+
