@@ -21,7 +21,6 @@
 🚀 Making the web a better place, one line of code at a time.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jjboy55&theme=github-dark-blue)](https://git.io/streak-stats)
-
-<img src="./asset/github-compact.svg" height=250 alt="graph"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jjboy55&theme=github-compact)](https://github.com/jjboy55/github-readme-activity-graph)
 
 
