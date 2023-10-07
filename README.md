@@ -1,4 +1,6 @@
-### Hi there I am Jeremiah 👋
+<p align = "center"> <h1 > Hi there I am Jeremiah 👋</h1> </p> 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000">
+<br>
 
 👨‍💻 Junior Flutter Developer | 💻 Junior Web Developer | 🌐 HTML | 🎨 CSS | 🚀 JavaScript | 🎯 Dart
 
@@ -20,7 +22,7 @@
 
 🚀 Making the web a better place, one line of code at a time.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jjboy55&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jjboy55&theme=github-dark-blue)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjboy55&show_icons=true&theme=transparent)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jjboy55&theme=github-compact)](https://github.com/jjboy55/github-readme-activity-graph)
 
 
