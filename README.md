@@ -22,4 +22,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jjboy55&theme=github-dark-blue)](https://git.io/streak-stats)
 
+<img src="./asset/github-compact.svg" height=250 alt="graph"/>
+
 
