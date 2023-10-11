@@ -20,6 +20,4 @@
 
 👯 I’m looking to collaborate on multiple projects especially related to flutter
 
-🚀 Making the web a better place, one line of code at a time.
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=jjboy55&theme=github-dark-blue)](https://git.io/streak-stats) 
