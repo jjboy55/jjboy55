@@ -20,4 +20,5 @@
 
 👯 I’m looking to collaborate on multiple projects especially related to flutter
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jjboy55&theme=github-dark-blue)](https://git.io/streak-stats) 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjboy55&theme=onedark" alt="yczar" /></p>
+
