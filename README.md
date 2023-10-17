@@ -16,7 +16,9 @@
 
 💡 Transforming concepts into elegant code.
 
-📫 Reach me on twitter @jerrydevs
+📫 Reach me on twitter @jerrydevs.
+
+<p align="left"> <a href="https://twitter.com/jerrydevs_" target="blank"><img src="https://img.shields.io/twitter/follow/jerrydevs_?logo=twitter&style=for-the-badge" alt="jerrydevs_" /></a> </p>
 
 👯 I’m looking to collaborate on multiple projects especially related to flutter
 
