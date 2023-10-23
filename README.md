@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Jeremiah-Louis</h1>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000">
 
-<h1 align="center">Here's a bit about me</h1>
+<h1 align="center">Here's a bit about me 😅</h1>
 
 👨‍💻 Junior Flutter Developer | 💻 Junior Web Developer | 🌐 HTML | 🎨 CSS | 🚀 JavaScript | 🎯 Dart | Flutter
 
