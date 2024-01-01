@@ -11,10 +11,6 @@
 
 🌟 Turning ideas into efficient and scalable applications.
 
-📚 Constantly learning and improving my skills.
-
-🌍 Building beautiful interfaces and responsive websites.
-
 💡 Transforming concepts into elegant code.
 
 👯 I’m looking to collaborate on multiple projects especially related to flutter.
