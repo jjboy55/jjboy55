@@ -16,7 +16,7 @@
 👯 I’m looking to collaborate on multiple projects especially related to flutter.
 
 <p align="left"> <a href="https://twitter.com/jerrydevs_" target="blank"><img src="https://img.shields.io/twitter/follow/jerrydevs_?logo=twitter&style=for-the-badge" alt="jerrydevs_" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjboy55&show_icons=true&locale=en&layout=compact&theme=onedark" alt="yczar" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjboy55&theme=onedark" alt="jjboy55" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjboy55&show_icons=true&locale=en&layout=compact&theme=onedark" alt="jerry" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjboy55&theme=onedark" alt="jjboy55" /></p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
