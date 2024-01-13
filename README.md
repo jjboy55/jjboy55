@@ -7,6 +7,8 @@
 
 🔭 Exploring the endless possibilities of Flutter and the web.
 
+🌐 Currently Seeking a software enginnering internship
+
 ⚡️ Passionate about crafting delightful user experiences.
 
 🌟 Turning ideas into efficient and scalable applications.
