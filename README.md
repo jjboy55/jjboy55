@@ -3,17 +3,11 @@
 
 <h1 align="center">Here's a bit about me 😅</h1>
 
-👨‍💻 Junior Flutter Developer | 💻 Junior Web Developer | 🌐 HTML | 🎨 CSS | 🚀 JavaScript | 🎯 Dart | Flutter
+👨‍💻 Software Engineer in view.
 
-🔭 Exploring the endless possibilities of Flutter and the web.
-
-🌐 Currently Seeking a software engineering internship / Flutter internship .
+🌐 Currently Seeking a software engineering internship.
 
 ⚡️ Passionate about crafting delightful user experiences.
-
-🌟 Turning ideas into efficient and scalable applications.
-
-💡 Transforming concepts into elegant code.
 
 👯 I’m looking to collaborate on multiple projects .
 
