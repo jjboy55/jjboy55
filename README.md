@@ -5,8 +5,6 @@
 
 👨‍💻 Software Engineer in view.
 
-🌐 Currently Seeking a software engineering internship.
-
 ⚡️ Passionate about crafting delightful user experiences.
 
 👯 I’m looking to collaborate on multiple projects .
