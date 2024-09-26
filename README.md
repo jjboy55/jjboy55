@@ -5,7 +5,7 @@
 
 👨‍💻 Software Engineer in view.
 
-⚡️ Passionate about crafting delightful user experiences.
+⚡️ Passionate about `Generative AI`, `Large language models` and `Artificial Intelligence` .
 
 👯 I’m looking to collaborate on multiple projects .
 
