@@ -16,4 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjboy55&show_icons=true&locale=en&layout=compact&theme=onedark" alt="jerry" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjboy55&theme=onedark" alt="jjboy55" /></p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
