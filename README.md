@@ -7,7 +7,7 @@
 
 ⚡️ Passionate about `Generative AI`, `Large language models` and `Artificial Intelligence` .
 
-👯 I’m looking to collaborate on multiple projects . 
+👯 I’m looking to collaborate on multiple projects. 
 
 
 ![](https://komarev.com/ghpvc/?username=jjboy55&color=blue)
