@@ -3,7 +3,7 @@
 
 <h1 align="center">Here's a bit about me 😅</h1>
 
-👨‍💻 Software Engineer in view.  
+👨‍💻 Software Engineer in view.
 
 ⚡️ Passionate about `Generative AI`, `Large language models` and `Artificial Intelligence` .
 
